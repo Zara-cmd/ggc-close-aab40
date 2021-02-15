@@ -1,5 +1,5 @@
 ---
-title: Good Gaming Community | ggc.lol
+title: Good Gaming Community
 description: A great human
 background: images/bg.jpg
 ---
