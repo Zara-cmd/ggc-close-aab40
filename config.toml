@@ -4,3 +4,9 @@ title = "My New Hugo Site"
 theme = "dimension"
 themesDir = "themes"
 publishDir = "public"
+
+[menu] 
+   [[menu.main]] 
+      identifier = "about" 
+      name = "About" 
+      url = "about/index.html"
