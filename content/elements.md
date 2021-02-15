@@ -1,4 +1,4 @@
 ---
 title: TeamSpeak³
-link: https://google.com/
 ---
+{{< a_blank title="Coding N Concepts" url="https://codingnconcepts.com/" >}}
