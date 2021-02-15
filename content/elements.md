@@ -1,4 +1,4 @@
 ---
 title: TeamSpeak³
-target: https://google.com/
+link: https://google.com/
 ---
