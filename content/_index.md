@@ -1,5 +1,5 @@
 ---
-title: Your Name
+title: Good Gaming Community | ggc.lol
 description: A great human
-background: "images/bg.jpg"
+background: images/bg.jpg
 ---
